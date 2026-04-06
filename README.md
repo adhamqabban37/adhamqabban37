@@ -1,4 +1,23 @@
 
+## 🚀 Top 10 Portfolio Projects
+
+A curated selection of my best work — see the full list in **[PORTFOLIO_PROJECTS.md](./PORTFOLIO_PROJECTS.md)**
+
+| # | Project | Stack | Category |
+|---|---------|-------|----------|
+| 1 | [XenlixAI Agency Website](https://github.com/adhamqabban37/XAi-agency-) | React · TypeScript · Framer Motion | SaaS / Marketing |
+| 2 | [API Health Monitor](https://github.com/adhamqabban37/API-CHECK) | Next.js · Prisma · PostgreSQL | SaaS / DevTools |
+| 3 | [FinancialFrontier](https://github.com/adhamqabban37/FinancialFrontier) | React · Express · Drizzle ORM | FinTech |
+| 4 | [TruthByte](https://github.com/adhamqabban37/TruthByte) | Next.js · Firebase | Web App |
+| 5 | [StillTime Website](https://github.com/adhamqabban37/StillTime-website-) | HTML · CSS · JS | Marketing / Productivity |
+| 6 | [Networking App](https://github.com/adhamqabban37/networking.1.0) | React · TypeScript · Gemini AI | AI / Networking |
+| 7 | [Crawl4AI Microservice](https://github.com/adhamqabban37/Crawl4AI-) | Python · FastAPI | AI / Backend |
+| 8 | [GreenGrease Solutions](https://github.com/adhamqabban37/GreenGreaseSolutions) | HTML · CSS | Business Site |
+| 9 | [Financial Frontline](https://github.com/adhamqabban37/financial-frontline) | Python · Flask | FinTech |
+| 10 | [QAB Site](https://github.com/adhamqabban37/QAB) | HTML · CSS | Personal / Business |
+
+---
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adamqab) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adam-qab-620856187/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@adhamqab) 
 
