@@ -34,7 +34,7 @@ A curated list of the strongest, most showcase-worthy projects from my GitHub pr
 ## 4. 🔍 TruthByte
 **Repo:** [TruthByte](https://github.com/adhamqabban37/TruthByte)
 
-**Purpose:** Next.js product app built in Firebase Studio. TruthByte is a content verification / fact-checking style application with a modern React UI and Firebase backend.
+**Purpose:** Next.js product app built with Firebase. TruthByte is a content verification / fact-checking style application with a modern React UI and Firebase backend.
 
 **Tech Stack:** Next.js · TypeScript · Firebase · Tailwind CSS
 
@@ -88,7 +88,7 @@ A curated list of the strongest, most showcase-worthy projects from my GitHub pr
 ## 10. 🏠 QAB — Personal / Business Site
 **Repo:** [QAB](https://github.com/adhamqabban37/QAB)
 
-**Purpose:** Multi-page personal or business website (qab-website) with custom branding and assets. A clean HTML/CSS showcase site.
+**Purpose:** Multi-page personal or business showcase site with custom branding and assets, built as a clean HTML/CSS web presence.
 
 **Tech Stack:** HTML · CSS · JavaScript
 
